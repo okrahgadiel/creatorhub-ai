@@ -1,6 +1,6 @@
 # CreatorHub AI
 
-![CI](https://github.com/okrahgadiel-star/creatorhub-ai/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/okrahgadiel/creatorhub-ai/actions/workflows/ci.yml/badge.svg)
 
 A content operations dashboard for social media teams. It syncs with a **Notion** content database and adds what Notion lacks: an engagement analytics view, a **data-driven auto-scheduler** that learns each platform's best posting hour from past performance, and **AI caption suggestions**.
 
@@ -27,7 +27,7 @@ A content operations dashboard for social media teams. It syncs with a **Notion*
 ## Quick Start
 
 ```bash
-git clone https://github.com/okrahgadiel-star/creatorhub-ai.git
+git clone https://github.com/okrahgadiel/creatorhub-ai.git
 cd creatorhub-ai
 python -m creatorhub          # http://127.0.0.1:8000 (demo data)
 ```
